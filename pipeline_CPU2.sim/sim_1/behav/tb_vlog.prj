@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/adder.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/Sources/divider.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/multiply.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/alu.v"
+verilog dist_mem_gen_v8_0_10  "../../../pipeline_CPU2.ip_user_files/ipstatic/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/ip/imem/sim/imem.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/wb.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/exe.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/mem.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/fetch.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/decode.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/new/data_ram.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/regfile.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/pipeline_cpu.v"
+verilog xil_defaultlib  "../../../pipeline_CPU2.srcs/sim_1/imports/8_pipeline_cpu/tb.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

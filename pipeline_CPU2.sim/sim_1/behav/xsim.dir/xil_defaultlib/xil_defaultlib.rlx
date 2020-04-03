@@ -1,0 +1,17 @@
+0.4
+2016.2
+C:/Download/pipeline_CPU2/pipeline_CPU2.sim/sim_1/behav/glbl.v,1464879896,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sim_1/imports/8_pipeline_cpu/tb.v,1584586978,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/Sources/divider.v,1584867477,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/adder.v,1486602986,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/alu.v,1486602986,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/decode.v,1584868856,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/exe.v,1584868328,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/fetch.v,1584518712,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/mem.v,1584496221,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/multiply.v,1584860471,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/pipeline_cpu.v,1584865059,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/regfile.v,1584703936,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/imports/8_pipeline_cpu/wb.v,1584088408,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/imports/sources_1/new/data_ram.v,1584542550,verilog,,,,,,,,,,,
+C:/Download/pipeline_CPU2/pipeline_CPU2.srcs/sources_1/ip/imem/sim/imem.v,1584869393,verilog,,,,,,,,,,,
